@@ -3,7 +3,7 @@
 Codigo feito na linguagem C e mostra todas as possibilidades de moedas para uma certa quantidade de Troco (No sistema de moedas dos Estados Unidos).
 
 ## How to use ? :gear:
-<img src="./C-logo-editado.png" align="right" width="300">
+<img src="./C-logo-editado.png" align="right" width="250">
 
 Para Rodar o codigo basta clona-lo atraves do git clone *Link do repositorio*
 ```bash
