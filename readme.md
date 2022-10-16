@@ -12,7 +12,7 @@ Para Rodar o codigo basta clona-lo atraves do git clone *Link do repositorio*
 
 Após clona-lo basta entrar na pasta, compilar o arquivo para criar o executavel :
 ```bash
-~$ gcc "FILE NAME".c -o "EXECUTABLE NAME"
+~$ gcc main.c -o a.out
 ```
 
 E em sequida basta rodar o executavel e testar o programa.
