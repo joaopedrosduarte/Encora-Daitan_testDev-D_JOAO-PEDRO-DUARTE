@@ -7,7 +7,7 @@ Codigo feito na linguagem C e mostra todas as possibilidades de moedas para uma 
 
 Para Rodar o codigo basta clona-lo atraves do git clone *Link do repositorio*
 ```bash
-~$ git clone https://github.com/joaopedrosduarte/Encora-Daitan_testDev-D_JOAO-PEDRO-DUARTE.git
+~$ git clone "Link do repositorio"
 ```
 
 Após clona-lo basta entrar na pasta, compilar o arquivo para criar o executavel :
