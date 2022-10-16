@@ -5,7 +5,7 @@ Codigo feito na linguagem C e mostra todas as possibilidades de moedas para uma 
 ## How to use ? :gear:
 <img src="./C-logo-editado.png" align="right" width="250">
 
-Para Rodar o codigo basta clona-lo atraves do git clone *Link do repositorio*
+Para Rodar o codigo basta clona-lo atraves do git clone ***Link do repositorio***
 ```bash
 ~$ git clone "Link do repositorio"
 ```
